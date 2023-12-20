@@ -25,5 +25,5 @@ install -m 755 %{_builddir}/oslab-main/calc_files.sh %{buildroot}/usr/bin/calc_f
 /usr/bin/calc_files
 
 %changelog
-* Wen Dec 20 2023 Antonenko Olexandr <andrejapecko@gmail.com> - 1.0-1
+* Wed Dec 20 2023 Antonenko Olexandr <andrejapecko@gmail.com> - 1.0-1
 - Initial build
